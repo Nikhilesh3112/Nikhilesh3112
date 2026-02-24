@@ -1,106 +1,16 @@
-\documentclass[a4paper,10pt]{article}
-\usepackage[margin=0.6in]{geometry}
-\usepackage{titlesec}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{fontawesome5}
-\usepackage{setspace}
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikhilesh Pranav
+=========================================================================================================================================
 
-\setstretch{1.05}
-\pagenumbering{gobble}
-\setlength{\parindent}{0pt} % remove paragraph indent
-\setlist[itemize]{leftmargin=*, noitemsep, topsep=2pt}
+I'm a Passionate Software Developer
+-----------------------------------
 
-% Section formatting
-\titleformat{\section}{\large\bfseries}{}{0pt}{}
-\titlespacing*{\section}{0pt}{6pt}{4pt}
+* 🌍  I'm based in Madurai, Tamil Nadu, IND
+* ✉️  You can contact me at [nikhileshpranav31@gmail.com](mailto:nikhileshpranav31@gmail.com)
 
-\begin{document}
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+</p>
 
-%================ HEADER =================%
-\begin{center}
-    {\LARGE \textbf{NIKHILESH PRANAV M S}}\\[4pt]
-    Madurai, Tamil Nadu\\[4pt]
-    \faPhone\ 7604842361 \quad
-    \faEnvelope\ \href{mailto:nikhileshpranav31@gmail.com}{nikhileshpranav31@gmail.com} \quad
-    \faLinkedin\ \href{https://www.linkedin.com/in/nikhilesh-pranav}{linkedin.com/in/nikhilesh-pranav}
-\end{center}
+### Socials
 
-%================ EDUCATION =================%
-\section*{EDUCATION}
-\hrule
-\vspace{4pt}
-
-\textbf{K.L.N. College of Engineering} \hfill 2020 -- 2024 \\
-Bachelor’s Degree in Computer Science and Engineering -- CGPA: 8.44 \\
-Sivagangai, Tamil Nadu
-
-\vspace{6pt}
-
-\textbf{V H N Higher Secondary School} \hfill 2019 -- 2020 \\
-XII -- Percentage: 74.5\% \\
-Madurai, Tamil Nadu
-
-\vspace{6pt}
-
-\textbf{Vivekananda Higher Secondary School} \hfill 2017 -- 2018 \\
-X -- Percentage: 91\% \\
-Puducherry
-
-%================ PROJECTS =================%
-\section*{PROJECTS}
-\hrule
-\vspace{4pt}
-
-\textbf{Custom Voice Cloner} \hfill 2023 \\
-Technology: Python, pyttsx3, gTTS
-\begin{itemize}
-    \item Developed a voice-to-voice conversion tool.
-    \item Converts user speech into text and reproduces it in a selected voice.
-    \item Designed a simple and interactive interface.
-\end{itemize}
-
-\vspace{6pt}
-
-\textbf{Government Infobot} \hfill 2024 \\
-Technology: Python, Streamlit, OpenAI API
-\begin{itemize}
-    \item Built a chatbot to provide information about government schemes.
-    \item Implemented NLP-based response generation.
-    \item Added multi-language support for accessibility.
-\end{itemize}
-
-%================ TECHNICAL SKILLS =================%
-\section*{TECHNICAL SKILLS}
-\hrule
-\vspace{4pt}
-
-\textbf{Languages:} HTML, CSS, JavaScript, Java, Python \\
-\textbf{Database:} MySQL \\
-\textbf{Version Control:} Git, GitHub \\
-\textbf{Tools:} IntelliJ, Visual Studio Code, PyCharm
-
-%================ AWARDS & CERTIFICATIONS =================%
-\section*{AWARDS \& CERTIFICATIONS}
-\hrule
-\vspace{4pt}
-
-\begin{itemize}
-    \item Government Infobot -- Awarded Best Final Year Project (CSE Dept).
-    \item 3rd Place -- Online Treasure Hunt, GyanMitra 2023, Mepco Schlenk College of Engineering.
-    \item Participated in Paper Presentation -- GenNext 2022, Velammal College of Engineering.
-    \item Java Fundamentals for Beginners.
-    \item SQL and Relational Databases 101.
-    \item Java Basic, Python Basic, SQL Intermediate -- HackerRank.
-\end{itemize}
-
-%================ PROFILES =================%
-\section*{PROFILES}
-\hrule
-\vspace{4pt}
-
-\faLinkedin\ \textbf{LinkedIn:} \href{https://www.linkedin.com/in/nikhilesh-pranav}{linkedin.com/in/nikhilesh-pranav} \\[4pt]
-\faGithub\ \textbf{GitHub:} \href{https://github.com/Nikhilesh3112}{github.com/Nikhilesh3112} \\[4pt]
-\faHackerrank\ \textbf{HackerRank:} \href{https://www.hackerrank.com/profile/nikhileshpranav1}{hackerrank.com/profile/nikhileshpranav1}
-
-\end{document}
+<p align="left"> <a href="https://www.github.com/Nikhilesh3112" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nikhilesh-pranav" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
